@@ -10,10 +10,9 @@ with your imagination). This project must at least satisfy the following minimum
 - Use conditions.
 - Use a Lambda function.
 
-## Example Project : An online Grocery Store
-Overview : An online store that sells fruits to customers. This online store has 2 main
-users. The customer and the manager of the store . Each one of them should be able to
-do the following tasks for the store to function properly .
+## Example#1: An online Grocery Store
+Overview : An online store that sells fruits to customers. The customers should be able to
+do the following tasks for the store to function properly.
 
 ### As a customer I should be able to do the following:
 - Browse Products.
@@ -27,3 +26,19 @@ do the following tasks for the store to function properly .
 - Fill in my address for delivery.
 - Get receipt of my purchases.
 - Check delivery status.
+
+## Example#2: Strong Personal Password
+Overview : A system creates personal random passwords, these passwords should be strong enough and contains capital and small letters, numbers and symbols. Therefore, you need to do the following.
+- Save all letters in a list.
+- Ask the user about password length.
+- shuffle passwords.
+- use loops to create a passsword.
+- choose a random letter from letters by using random.choice.
+- Add a random letter to the password.
+- Write a function that add capital letters to the password.
+- Write a function that add random numbers to the password.
+- Write a function that add symbols to the password.
+- Final Randomization to the final pattern.
+- Print the Final Password.
+
+

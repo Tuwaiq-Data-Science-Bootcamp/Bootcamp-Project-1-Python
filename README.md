@@ -119,7 +119,6 @@ print('***********************************')
 print('\tPassword generator')
 print('***********************************\n\n\n')
 
-#passLength=int(input('Please enter the length of your password:\n'))
 
 #string.ascii_letters
 #string.ascii_uppercase, k=2
